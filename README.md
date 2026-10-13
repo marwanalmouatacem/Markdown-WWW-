@@ -10,13 +10,13 @@
 - *WWW staat voor world wide web, de www is een systeem dat webpaginas en documenten met elkaar laat verbinden die je via het internet kan bekijken*
 
 
-2. Hoe draagt x bij aan de functionaliteit van het internet?
+2. Hoe draagt WWW bij aan de functionaliteit van het internet?
 
 - *de www vormt de gebruiksvriendelijke interface en de informatielaag van de internet. het voegde ook integratie van multimedia op en de toegankelijkheid via hyperlinks.*
 
 **Veiligheid**
 
-3. Welke rol speelt x bij het waarborgen van de beveiliging van online communicatie?
+3. Welke rol speelt WWW bij het waarborgen van de beveiliging van online communicatie?
 
 - *de www speelt geen rol in de beveiliging van online communicatie, als je een beveiligde website wil moet je gebruik maken van https*
 
